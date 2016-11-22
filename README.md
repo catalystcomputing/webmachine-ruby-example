@@ -12,7 +12,7 @@ You will need a working installation of Ruby 2.2 or later, and curl to run the e
 
 ## Running the Example
 
-1\. Install the gems. This will install them to their local directory; if you would like them installed to system ron't include the `--path=vendor/local` argument.
+1\. Install the gems. This will install them to their local directory; if you would like them installed to system don't include the `--path=vendor/local` argument.
 
 ```sh
 $ bundle install --path=vendor/local
